@@ -1,3 +1,5 @@
+DOCX_OUTPUT
+PDF_FILES
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
