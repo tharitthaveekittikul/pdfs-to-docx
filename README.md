@@ -22,6 +22,14 @@ Once the virtual environment is created, you need to activate it. Run the follow
 pdfstodocx\Scripts\activate  # On Windows
 ```
 
+## Update .ENV
+
+navigate file name to the env project
+
+```sh
+FILE_NAME=your-pdf-file
+```
+
 ## Running the Tool
 
 After activating the virtual environment, navigate to the project directory and run:
