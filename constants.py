@@ -1,4 +1,3 @@
-FILE_NAME = "The-Data-Science-Venn-Diagram-—-Drew-Conway"
 PDF_PATH = "PDF_FILES/"
 DOCX_PATH = "DOCX_OUTPUT/"
 PDF_FORMAT = ".pdf"
